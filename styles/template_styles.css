@@ -4,4 +4,7 @@
   position: relative;
   overflow: hidden;
   margin: 30px;
+  margin: 50px auto 0px auto;
+  border: 1px dotted #333;
+  display: block;
 }
